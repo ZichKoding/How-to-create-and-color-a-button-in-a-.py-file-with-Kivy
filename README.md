@@ -22,7 +22,7 @@ Input:
 
 Output:
 
-https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/edpresso/shot/5896126035656704/image/4554287152103424.png
+https://github.com/ZichKoding/How-to-create-and-color-a-button-in-a-.py-file-with-Kivy/blob/main/HelloWorldButtonpyno-color.png
 
 This is a button that does nothing once it's pressed, but it's okay because we are more worried about the design parts of this app than the logic. The next part is going to show how to change the color. So, what we need to do is in our variable, button, we need to go into the `Button()` method and add the keyword argument `background_color`.
 
